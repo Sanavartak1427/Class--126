@@ -1,0 +1,15 @@
+
+body{
+    background-size: cover;
+}
+.heading{
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 0;
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+}
+#note_id{
+    font-size: 15px;
+    color: rgb(4, 4, 51);
+}
